@@ -1,45 +1,38 @@
 # Hi 👋, I'm Deepak
 
-🎓 I'm a Web Development Learner  
-💻 Currently learning **Full Stack Development**  
-🚀 Passionate about building real-world projects  
+💻 Full Stack Web Development Learner  
+🚀 Passionate about building real-world applications  
+🌱 Currently growing with the MERN Stack  
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MERN Stack**
-- 🔭 I’m working on improving my **Frontend & Backend skills**
-- 🤝 I’m looking to collaborate on **Web Development Projects**
+- 🔭 Improving my **Frontend & Backend Development Skills**
+- 🌱 Currently exploring **Advanced React & Backend Development**
+- 🤝 Open to collaborate on **Web Development Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 How to reach me: **d.kandpal1832@gmail.com**
+- 📫 Reach me at: **d.kandpal1832@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+HTML • CSS • JavaScript • React  
 
 ### ⚙️ Backend
-- Node.js 
-- Express.js 
+Node.js • Express.js  
 
 ### 🗄️ Database
-- MongoDB
-- Postgresql
+MongoDB • PostgreSQL  
 
 ### 🔧 Tools
-- Git
-- GitHub
-- VS Code
+Git • GitHub • VS Code  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=tokyonight)
 
@@ -51,9 +44,9 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: linkedin.com/in/deepakkandpal
-- Instagram: instagram.com/d.eepakkandpal
+🔗 LinkedIn: https://linkedin.com/in/deepakkandpal  
+📸 Instagram: https://instagram.com/d.eepakkandpal  
 
 ---
 
-⭐️ *Always learning, always building*
+⭐️ Always learning, always building 🚀
