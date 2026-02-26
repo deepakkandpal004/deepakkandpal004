@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 🔭 I’m working on improving my **Frontend & Backend skills**
 - 🤝 I’m looking to collaborate on **Web Development Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React (learning)**
-- 📫 How to reach me: **your-email@example.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 📫 How to reach me: **d.kandpal1832@gmail.com**
 
 ---
 
@@ -22,14 +22,15 @@
 - HTML
 - CSS
 - JavaScript
-- React (Learning)
+- React
 
 ### ⚙️ Backend
-- Node.js (Learning)
-- Express.js (Learning)
+- Node.js 
+- Express.js 
 
 ### 🗄️ Database
-- MongoDB (Learning)
+- MongoDB
+- Postgresql
 
 ### 🔧 Tools
 - Git
@@ -40,7 +41,7 @@
 
 ## 📈 GitHub Stats
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=radical)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -52,8 +53,8 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: (Add later)
-- Portfolio: (Add later)
+- LinkedIn: lindekin.com/in/deepakkandpal
+- Instagram: instagram.com/d.eepakkandpal
 
 ---
 
