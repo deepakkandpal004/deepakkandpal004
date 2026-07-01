@@ -1,52 +1,61 @@
-# Hi 👋, I'm Deepak
-
-💻 Full Stack Web Development Learner  
-🚀 Passionate about building real-world applications  
-🌱 Currently growing with the MERN Stack  
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Improving my **Frontend & Backend Development Skills**
-- 🌱 Currently exploring **Advanced React & Backend Development**
-- 🤝 Open to collaborate on **Web Development Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me at: **d.kandpal1832@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-HTML • CSS • JavaScript • React  
-
-### ⚙️ Backend
-Node.js • Express.js  
-
-### 🗄️ Database
-MongoDB • PostgreSQL  
-
-### 🔧 Tools
-Git • GitHub • VS Code  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=tokyonight)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=deepakkandpal004&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-🔗 LinkedIn: https://linkedin.com/in/deepakkandpal  
-📸 Instagram: https://instagram.com/d.eepakkandpal  
-
----
-
-⭐️ Always learning, always building 🚀
+Hi 👋, I'm Deepak
+    
+    A passionate Full Stack Web Developer focused on building modern, scalable, and user-friendly web applications.
+    
+    - 🌱 Currently growing with the MERN stack
+    - 🚀 Passionate about real-world projects and practical problem solving
+    - 💡 Interested in frontend, backend, and full-stack development
+    - 🤝 Open to collaborating on web development projects
+    - 📫 Reach me at: d.kandpal1832@gmail.com
+    
+    
+    
+    🚀 About Me
+    
+    I’m a Full Stack Web Development learner who enjoys turning ideas into real applications.
+    I’m continuously improving my skills in frontend and backend development while exploring modern tools and best practices to build production-ready projects.
+    
+    
+    
+    🛠️ Tech Stack
+    
+    Frontend
+    HTML
+    CSS
+    JavaScript
+    React
+    
+    Backend
+    Node.js
+    Express.js
+    
+    Database
+    MongoDB
+    PostgreSQL
+    
+    Tools & DevOps
+    Git
+    GitHub
+    VS Code
+    Docker
+    
+    
+    
+    📊 GitHub Stats
+    
+    Deepak's GitHub stats
+    
+    🔥 Streak Stats
+    
+    GitHub Streak
+    
+    
+    
+    🌐 Connect With Me
+    
+    LinkedIn
+    Instagram
+    
+    
+    
+    ⭐ Always learning, always building
