@@ -1,86 +1,165 @@
-# Hi, I'm Deepak Kandpal 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=58A6FF¢er=true&vCenter=true&width=500&lines=Deepak+Kandpal;Full-Stack+Developer;AI+SaaS+Builder;Open+Source+Contributor;Always+Building.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=1F6FEB¢er=true&vCenter=true&width=500&lines=Deepak+Kandpal;Full-Stack+Developer;AI+SaaS+Builder;Open+Source+Contributor;Always+Building." alt="Typing SVG" />
+  </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39C16C¢er=true&vCenter=true&width=450&lines=Full-Stack+Developer;AI+SaaS+Builder;B.Tech+CS+Undergrad;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+  <br/>
 
-<p align="center">
-  <strong>Full-stack developer skilled in React, Next.js, Node.js, and databases. Passionate about building intelligent, AI-powered applications & modern web solutions.</strong>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/deepakkandpal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/deepakkandpal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+   
   <a href="mailto:d.kandpal1832@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+   
   <a href="https://github.com/deepakkandpal004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+   
+  <a href="https://leetcode.com/u/deepakkandpal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/deepakkandpal004">
+    <img src="https://komarev.com/ghpvc/?username=deepakkandpal004&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  </a>
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧭 Developer Journey
 
-* 🎓 **B.Tech in Computer Science & Engineering** at **Graphic Era Hill University** (2022 - 2026) | CGPA: **7.77/10**
-* 💡 **AI Integration**: Building full-stack platforms powered by Gemini API and OpenRouter.
-* 🚢 **Shipping SaaS**: Active full-stack developer building AI-powered SaaS products and web applications.
+<table>
+  <tr>
+    <td width="60%">
+
+**From curiosity to creation.** My journey into software began with writing small scripts and quickly grew into building full-stack AI-powered applications. I thrive at the intersection of **product thinking** and **engineering execution** — taking ideas from concept to deployed, production-ready systems.
+
+<br/>
+
+🚀 **What drives me:** Shipping real products that solve problems. I've built and deployed AI SaaS platforms, WebRTC-based P2P tools, and full-stack web apps — all while diving deep into modern tooling, databases, and developer workflows.
+
+<br/>
+
+⚡ **Currently exploring:** Advanced CI/CD pipelines, Docker containerization, Redis caching patterns, and building production-grade APIs.
+
+  </td>
+    <td width="40%" align="center">
+
+```javascript
+const deepak = {
+  focus:     "AI SaaS & Full-Stack",
+  build:     ["Next.js", "Node.js", "React"],
+  ship:      "Deployed on Vercel",
+  mindset:   "Build → Learn → Ship",
+  constant:  "Curiosity"
+};
+```
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend & Auth** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **AI & APIs** | ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openai&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=flat-square&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
----
-
-## 📊 GitHub Activity
+## ⚡ Core Skills
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkandpal004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+---
+
+## 🏗️ What I'm Building
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **AI Resume Builder** | Full-stack SaaS with AI-generated content, live sharing, and image processing | React, Node.js, MongoDB, Gemini API |
+| **AI Expense Tracker** | Smart finance tracker with LLM-powered spending analysis and budgeting | Next.js, Neon PostgreSQL, Clerk, OpenRouter |
+
+---
+
+## 📈 GitHub Pulse
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="190px" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190px" />
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=deepakkandpal004&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" height="170px" />
+  </a>
 </div>
 
-### 🤝 Contributions & Activity
+<br/>
 
-<p align="center">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=deepakkandpal004&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph&radius=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=deepakkandpal004&theme=github-light&hide_border=true&bg_color=ffffff&area=true&custom_title=Contribution%20Graph&radius=8" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkandpal004&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph&radius=8" width="95%" alt="Activity Graph" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=deepakkandpal004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contributor Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkandpal004&theme=tokyonight&hide_border=true&bg_color=1a1b27&area=true" alt="Activity Graph" width="95%" />
-</p>
+</div>
 
 ---
 
-## 🏆 Certifications
+## 🔥 Recent Activity
 
-* **NPTEL Programming in Java** — IIT Kharagpur (2023)
-* **Career Essentials in Software Development** — Microsoft & LinkedIn Learning (2025)
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
 <div align="center">
-  <h3>⭐ Building. Learning. Shipping.</h3>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="60%"/>
+  <br/><br/>
+  
+  <h3>⚡ Building. Shipping. Evolving.</h3>
+  <p><i>Turning ideas into deployed reality, one commit at a time.</i></p>
+  <br/>
+  
+  <a href="https://github.com/deepakkandpal004">
+    <img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  </a>
 </div>
