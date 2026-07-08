@@ -1,104 +1,146 @@
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:10B981,100:059669&text=Deepak%20Kandpal&fontColor=ffffff&fontSize=48&fontAlignY=38"/>
 
 # Deepak Kandpal
 
-### Full Stack Developer • React • Next.js • Node.js • PostgreSQL
+### Full Stack Developer | React • Next.js • Node.js
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:10B981,100:059669&text=Deepak%20Kandpal&fontColor=ffffff&fontSize=46"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Learning+Something+New+Every+Day"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&width=650&lines=Building+Modern+Web+Applications;AI+Powered+SaaS+Developer;Always+Learning+Always+Building"/>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-deepak-kandpal.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.kandpal1832@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/deepakkandpal004)
+<a href="https://portfolio-website-deepak-kandpal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=deepakkandpal004&style=for-the-badge&color=10B981)
+<a href="mailto:d.kandpal1832@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deepakkandpal004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=deepakkandpal004&style=for-the-badge&color=10B981"/>
 
 </div>
 
 ---
 
-# About
+# 👋 About Me
 
-Hi, I'm Deepak 👋
+Hi, I'm Deepak.
 
-I'm a Full Stack Developer who loves building modern web applications. I enjoy working with React, Next.js, Node.js, PostgreSQL, and MongoDB to create products that are fast, scalable, and easy to use. I'm always learning, building new projects, and improving my skills with every project I work on.
+I'm a Full Stack Developer who enjoys building modern web applications with React, Next.js, Node.js, PostgreSQL, and MongoDB. I like turning ideas into real products while continuously learning new technologies and improving my development skills.
 
-🚀 Building full-stack and AI-powered applications
-💻 React, Next.js, Node.js, TypeScript
-🌱 Learning backend engineering and system design
-🤝 Open to internships and full-time software engineering roles
+- 🚀 Building full-stack and AI-powered applications
+- 💻 Working with React, Next.js, Node.js & TypeScript
+- 🌱 Learning backend engineering and system design
+- 🤝 Open to internships and software engineering opportunities
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <table>
+
 <tr>
 <td width="180"><strong>Languages</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Frontend</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Backend</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Database & ORM</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Cloud & DevOps</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,linux"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Tools</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </td>
 </tr>
+
 </table>
+
+---
 
 # 📚 Currently Learning
 
-- Advanced Backend Development
-- PostgreSQL Performance
+- Backend Development
+- PostgreSQL
 - Docker & CI/CD
 - System Design
-- Cloud Deployment
+- AWS Cloud
 
-# Connect
+---
 
-- 🌐 Portfolio: https://portfolio-website-deepak-kandpal.vercel.app/
-- 📧 Email: d.kandpal1832@gmail.com
-- 💼 GitHub: https://github.com/deepakkandpal004
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+> If the GitHub Stats don't appear, it's usually because the external widget service is temporarily unavailable. Your README is still correct.
+
+---
+
+# 🤝 Connect
+
+<p align="center">
+
+<a href="https://portfolio-website-deepak-kandpal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:d.kandpal1832@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deepakkandpal004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for visiting 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:10B981,100:059669"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:10B981,100:059669"/>
 
 </div>
-
