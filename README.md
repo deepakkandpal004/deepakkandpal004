@@ -21,42 +21,70 @@
 
 # About
 
-I'm a Full Stack Developer passionate about building fast, scalable and user-friendly products. I enjoy creating production-ready applications with React, Next.js, Node.js, PostgreSQL and MongoDB, and integrating AI to improve user experience.
+Hi, I'm Deepak 👋
 
-- 🚀 Building AI-powered SaaS products
-- 💻 Full Stack JavaScript & TypeScript
-- 🌱 Learning Backend Engineering & System Design
-- 🤝 Open to internships and software engineering roles
+I'm a Full Stack Developer who loves building modern web applications. I enjoy working with React, Next.js, Node.js, PostgreSQL, and MongoDB to create products that are fast, scalable, and easy to use. I'm always learning, building new projects, and improving my skills with every project I work on.
 
----
-
-# Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,git,github,vercel,vscode,postman"/>
-</p>
+🚀 Building full-stack and AI-powered applications
+💻 React, Next.js, Node.js, TypeScript
+🌱 Learning backend engineering and system design
+🤝 Open to internships and full-time software engineering roles
 
 ---
 
-# Featured Projects
+# 🛠️ Tech Stack
 
-## 🤖 AI Resume Builder
-- AI resume optimization with Gemini
-- Resume templates, live preview & sharing
-- Authentication dashboard
-- React • Node.js • MongoDB • ImageKit
+<table>
+<tr>
+<td width="180"><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</td>
+</tr>
 
-## 💰 Expense Tracker
-- Clerk Authentication
-- PostgreSQL database
-- AI expense categorization
-- Next.js • Tailwind CSS
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</td>
+</tr>
 
-## 🌐 Portfolio Website
-- Responsive developer portfolio
-- Modern UI and optimized performance
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</td>
+</tr>
 
----
+<tr>
+<td><strong>Database & ORM</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</td>
+</tr>
+
+<tr>
+<td><strong>Cloud & DevOps</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,vercel" />
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</td>
+</tr>
+</table>
+
+# 📚 Currently Learning
+
+- Advanced Backend Development
+- PostgreSQL Performance
+- Docker & CI/CD
+- System Design
+- Cloud Deployment
 
 # GitHub Overview
 
@@ -69,6 +97,15 @@ I'm a Full Stack Developer passionate about building fast, scalable and user-fri
 
 <p align="center">
 <img width="65%" src="https://streak-stats.demolab.com?user=deepakkandpal004&theme=transparent&hide_border=true"/>
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=deepakkandpal004&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -89,12 +126,3 @@ I'm a Full Stack Developer passionate about building fast, scalable and user-fri
 
 </div>
 
-## Optional (Recommended)
-
-Instead of relying on Trophy, Activity Graph and Snake services, pin your best repositories on your GitHub profile:
-- AI Resume Builder
-- Expense Tracker
-- Portfolio Website
-- Best Backend/API project
-
-This is more reliable and gives recruiters a better first impression.
