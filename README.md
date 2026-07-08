@@ -50,7 +50,7 @@ I'm a Full Stack Developer who enjoys building modern web applications with Reac
 <tr>
 <td width="180"><strong>Languages</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,C++,Java,js,ts"/>
 </td>
 </tr>
 
@@ -71,21 +71,21 @@ I'm a Full Stack Developer who enjoys building modern web applications with Reac
 <tr>
 <td><strong>Database & ORM</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma, drizzle ORM"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Cloud & DevOps</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,vercel,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,vercel,linux, CI/CD, "/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Tools</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman, cursor"/>
 </td>
 </tr>
 
