@@ -86,17 +86,6 @@ I'm a Full Stack Developer who loves building modern web applications. I enjoy w
 - System Design
 - Cloud Deployment
 
-# GitHub Overview
-
-> Uses only the most reliable GitHub widgets.
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&hide_border=true&theme=transparent"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&hide_border=true&theme=transparent"/>
-</p>
-
----
-
 # Connect
 
 - 🌐 Portfolio: https://portfolio-website-deepak-kandpal.vercel.app/
