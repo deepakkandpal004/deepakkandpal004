@@ -95,19 +95,6 @@ I'm a Full Stack Developer who loves building modern web applications. I enjoy w
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
-<p align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=deepakkandpal004&theme=transparent&hide_border=true"/>
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=deepakkandpal004&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
 ---
 
 # Connect
