@@ -1,102 +1,79 @@
+
+<div align="center">
+
 # Deepak Kandpal
 
-> **Full Stack Developer | React • Next.js • Node.js • PostgreSQL**
+### Full Stack Developer • React • Next.js • Node.js • PostgreSQL
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:10B981,100:059669&text=Deepak%20Kandpal&fontColor=ffffff&fontSize=46"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&width=650&lines=Building+Modern+Web+Applications;AI+Powered+SaaS+Developer;Always+Learning+Always+Building"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-deepak-kandpal.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.kandpal1832@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/deepakkandpal004)
+
+![](https://komarev.com/ghpvc/?username=deepakkandpal004&style=for-the-badge&color=10B981)
+
+</div>
+
+---
+
+# About
+
+I'm a Full Stack Developer passionate about building fast, scalable and user-friendly products. I enjoy creating production-ready applications with React, Next.js, Node.js, PostgreSQL and MongoDB, and integrating AI to improve user experience.
+
+- 🚀 Building AI-powered SaaS products
+- 💻 Full Stack JavaScript & TypeScript
+- 🌱 Learning Backend Engineering & System Design
+- 🤝 Open to internships and software engineering roles
+
+---
+
+# Tech Stack
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Deepak%20Kandpal&fontColor=ffffff&fontSize=48&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+%26+Shipping"/>
-</p>
-
-<p align="center">
-<a href="https://portfolio-website-deepak-kandpal.vercel.app/">Portfolio</a> •
-<a href="https://github.com/deepakkandpal004">GitHub</a> •
-<a href="mailto:d.kandpal1832@gmail.com">Email</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,docker,git,github,vercel,vscode,postman"/>
 </p>
 
 ---
 
-## About Me
+# Featured Projects
 
-I'm a Full Stack Developer passionate about building fast, scalable and user-friendly web applications.
+## 🤖 AI Resume Builder
+- AI resume optimization with Gemini
+- Resume templates, live preview & sharing
+- Authentication dashboard
+- React • Node.js • MongoDB • ImageKit
 
-- 💻 React, Next.js, TypeScript
-- ⚙️ Node.js, Express.js
-- 🗄️ PostgreSQL, MongoDB
-- 🤖 AI integrations with Gemini/OpenRouter
-- 🚀 Building SaaS products and production-ready apps
-
----
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,prisma,git,github,docker,vercel,vscode,postman"/>
-</p>
-
----
-
-## Featured Projects
-
-### 🤖 AI Resume Builder
-- AI-powered resume generation and optimization
-- Live preview and shareable resumes
-- Gemini AI + ImageKit integration
-
-### 💰 Expense Tracker
-- Next.js + PostgreSQL
+## 💰 Expense Tracker
 - Clerk Authentication
+- PostgreSQL database
 - AI expense categorization
+- Next.js • Tailwind CSS
 
-### 🌐 Portfolio Website
-- Responsive portfolio
-- Modern UI
-- Performance optimized
-
----
-
-## GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=deepakkandpal004&theme=tokyonight&hide_border=true"/>
-</p>
+## 🌐 Portfolio Website
+- Responsive developer portfolio
+- Modern UI and optimized performance
 
 ---
 
-## GitHub Trophies
+# GitHub Overview
+
+> Uses only the most reliable GitHub widgets.
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepakkandpal004&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&hide_border=true&theme=transparent"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&hide_border=true&theme=transparent"/>
+</p>
+
+<p align="center">
+<img width="65%" src="https://streak-stats.demolab.com?user=deepakkandpal004&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkandpal004&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## Currently Working On
-
-- AI SaaS Applications
-- Backend Engineering
-- PostgreSQL Optimization
-- Docker & CI/CD
-- System Design
-
----
-
-## Connect
+# Connect
 
 - 🌐 Portfolio: https://portfolio-website-deepak-kandpal.vercel.app/
 - 📧 Email: d.kandpal1832@gmail.com
@@ -104,14 +81,20 @@ I'm a Full Stack Developer passionate about building fast, scalable and user-fri
 
 ---
 
-> *Building software that solves real problems.*
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
-</p>
+### Thanks for visiting!
 
-## Notes
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:10B981,100:059669"/>
 
-- Replace portfolio URL if you move to a custom domain.
-- GitHub Stats, Trophies and Activity Graph rely on third-party services. If they temporarily show broken images, wait a few minutes and refresh; the markdown is correct.
-- For the contribution snake, add the Platane/snk GitHub Action workflow.
+</div>
+
+## Optional (Recommended)
+
+Instead of relying on Trophy, Activity Graph and Snake services, pin your best repositories on your GitHub profile:
+- AI Resume Builder
+- Expense Tracker
+- Portfolio Website
+- Best Backend/API project
+
+This is more reliable and gives recruiters a better first impression.
