@@ -252,46 +252,31 @@
       <g fill="url(#ascii-gradient)" class="font-mono">
         <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="5s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
         
-        <!-- Monospaced ASCII Line blocks (Revealed line-by-line via staggered opacity starts) -->
-        <text x="65" y="115" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="0.5s" fill="freeze" />          //==================\\</text>
-        <text x="65" y="133" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="0.6s" fill="freeze" />         //   .------------.   \\</text>
-        <text x="65" y="151" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="0.7s" fill="freeze" />        //   /              \   \\</text>
-        <text x="65" y="169" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="0.8s" fill="freeze" />       //   /   ▒▒    ▒▒     \   \\</text>
-        <text x="65" y="187" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="0.9s" fill="freeze" />      //   |    ▒▒    ▒▒      |   \\</text>
-        <text x="65" y="205" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.0s" fill="freeze" />     //    |       ▒▒         |    \\</text>
-        <text x="65" y="223" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.1s" fill="freeze" />    //     |     ▒▒▒▒▒▒       |     \\</text>
-        <text x="65" y="241" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.2s" fill="freeze" />   //       \    ▒▒  ▒▒      /       \\</text>
-        <text x="65" y="259" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.3s" fill="freeze" />  //         \    ▒▒▒▒      /         \\</text>
-        <text x="65" y="277" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.4s" fill="freeze" /> //           '------------'           \\</text>
-        <text x="65" y="295" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.5s" fill="freeze" />//======================================\\</text>
-        <text x="65" y="313" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.6s" fill="freeze" />      ||                          ||</text>
-        <text x="65" y="331" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.7s" fill="freeze" />      ||   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   ||</text>
-        <text x="65" y="349" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.8s" fill="freeze" />      ||   ▒▒                  ▒▒   ||</text>
-        <text x="65" y="367" xml:space="preserve" font-size="13" opacity="0">
-          <animate attributeName="opacity" to="1" dur="0.1s" begin="1.9s" fill="freeze" />      ||   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   ||</text>
+        <!-- Monospaced portrait, revealed line-by-line -->
+        <text x="88" y="115" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.5s" fill="freeze" />        .-=================-.</text>
+        <text x="88" y="133" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.62s" fill="freeze" />      .'  .-"""""""""""-.  '.</text>
+        <text x="88" y="151" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.74s" fill="freeze" />     /   /  _  _  _  _  \   \</text>
+        <text x="88" y="169" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.86s" fill="freeze" />    ;   |  / \/ \/ \/ \  |   ;</text>
+        <text x="88" y="187" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.98s" fill="freeze" />    |   | |  ◉  |  ◉  | |   |</text>
+        <text x="88" y="205" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.10s" fill="freeze" />    |   | |     ▴     | |   |</text>
+        <text x="88" y="223" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.22s" fill="freeze" />    |   | |   .---.   | |   |</text>
+        <text x="88" y="241" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.34s" fill="freeze" />    ;   |  \  '---'  /  |   ;</text>
+        <text x="88" y="259" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.46s" fill="freeze" />     \   \    ___    /   /</text>
+        <text x="88" y="277" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.58s" fill="freeze" />      '.  '._/___\_.'  .'</text>
+        <text x="88" y="295" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.70s" fill="freeze" />        '-.___________.-'</text>
+        <text x="88" y="313" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.82s" fill="freeze" />       /  /|  ||  ||  |\  \</text>
+        <text x="88" y="331" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.94s" fill="freeze" />      /__/ |__||__||__| \__\</text>
+        <text x="88" y="349" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="2.06s" fill="freeze" />      |  SYSTEM: ONLINE  |</text>
+        <text x="88" y="367" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="2.18s" fill="freeze" />      '=================='</text>
       </g>
 
       <!-- Cyber Terminal Scanning Cursor for ASCII drawing -->
       <rect x="396" y="102" width="7" height="15" fill="url(#ascii-gradient)">
-        <animate attributeName="y" values="102; 120; 138; 156; 174; 192; 210; 228; 246; 264; 282; 300; 318; 336; 354; 354" 
-                 keyTimes="0; 0.06; 0.12; 0.18; 0.24; 0.3; 0.36; 0.42; 0.48; 0.54; 0.6; 0.66; 0.72; 0.78; 0.84; 1" 
-                 dur="1.5s" begin="0.5s" fill="freeze" calcMode="discrete" />
+        <animate attributeName="y" values="102; 120; 138; 156; 174; 192; 210; 228; 246; 264; 282; 300; 318; 336; 354; 372" 
+                 keyTimes="0; 0.067; 0.133; 0.2; 0.267; 0.333; 0.4; 0.467; 0.533; 0.6; 0.667; 0.733; 0.8; 0.867; 0.933; 1" 
+                 dur="1.8s" begin="0.5s" fill="freeze" calcMode="discrete" />
         <animate attributeName="opacity" values="1;0;1" dur="0.6s" repeatCount="indefinite" />
-        <animate attributeName="visibility" to="hidden" begin="2.1s" fill="freeze" />
+        <animate attributeName="visibility" to="hidden" begin="2.4s" fill="freeze" />
       </rect>
     </g>
 
@@ -337,7 +322,7 @@
       <circle cx="510" cy="55" r="5" fill="#EF4444" />
       <circle cx="526" cy="55" r="5" fill="#F59E0B" />
       <circle cx="542" cy="55" r="5" fill="#10B981" />
-      <text x="815" y="60" text-anchor="middle" font-weight="600" font-size="12" fill="#64748B" class="font-sans" letter-spacing="1">dkandpal@macbook:~</text>
+      <text x="815" y="60" text-anchor="middle" font-weight="600" font-size="12" fill="#64748B" class="font-sans" letter-spacing="1">deepakkandpal004@github:~</text>
       <!-- Separator -->
       <line x1="480" y1="75" x2="1150" y2="75" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
     </g>
@@ -440,7 +425,7 @@
         <!-- Cap Icon -->
         <path d="M500 279l6-3.5 6 3.5-6 3.5zm0 2.5v2.5c0 .6.4 1 1 1h10c.6 0 1-.4 1-1v-2.5l-6 3.5z" fill="#7C3AED" />
         <text x="522" y="280" font-weight="600" fill="#64748B" letter-spacing="0.5">Education:</text>
-        <text x="610" y="280" font-weight="500" fill="#F8FAFC">Computer Science &amp; Web Dev</text>
+        <text x="610" y="280" font-weight="500" fill="#F8FAFC">Graphic Era Hill University</text>
       </g>
 
       <!-- Focus -->
@@ -458,7 +443,7 @@
         <!-- Link Icon -->
         <path d="M500 342c0-1.7 1.3-3 3-3h3v1.5h-3c-.8 0-1.5.7-1.5 1.5s.7 1.5 1.5 1.5h3v1.5h-3c-1.7 0-3-1.3-3-3zm6-1.5h2v1.5h-2zm3-1.5c1.7 0 3 1.3 3 3s-1.3 3-3 3h-3v-1.5h3c.8 0 1.5-.7 1.5-1.5s-.7-1.5-1.5-1.5h-3v-1.5z" fill="#22D3EE" />
         <text x="522" y="342" font-weight="600" fill="#64748B" letter-spacing="0.5">Portfolio:</text>
-        <text x="600" y="342" font-weight="500" fill="#22D3EE" cursor="pointer">deepakkandpal.vercel.app</text>
+        <a href="https://portfolio-website-deepak-kandpal.vercel.app/" target="_blank"><text x="600" y="342" font-weight="500" fill="#22D3EE">portfolio-website-deepak-kandpal.vercel.app</text></a>
       </g>
 
       <!-- Email -->
@@ -637,7 +622,7 @@
       <!-- Portfolio / Globe Icon -->
       <g class="social-icon" fill="#94A3B8" opacity="0">
         <animate attributeName="opacity" to="1" dur="0.3s" begin="4.00s" fill="freeze" />
-        <a href="https://portfolio-website-deepak-kandpal.vercel.app" target="_blank">
+        <a href="https://portfolio-website-deepak-kandpal.vercel.app/" target="_blank">
           <rect x="615" y="530" width="30" height="30" fill="transparent" />
           <path d="M625 535a10 10 0 100 20 10 10 0 000-20zm0 2c1.66 0 3.3 2.72 3.8 6.5h-7.6c.5-3.78 2.14-6.5 3.8-6.5zm-4.75 6.5h-3.1a8.02 8.02 0 013.1-6.5c-.6 1.83-.93 4.1-.93 6.5zm9.5 0c0-2.4-.33-4.67-.93-6.5a8.02 8.02 0 013.1 6.5h-3.1zm-7.6 1.5h7.6c-.5 3.78-2.14 6.5-3.8 6.5s-3.3-2.72-3.8-6.5zm-1.9 0c0 2.4.33 4.67.93 6.5a8.02 8.02 0 01-3.1-6.5h3.1zm9.5 0h3.1a8.02 8.02 0 01-3.1 6.5c.6-1.83.93-4.1.93-6.5z" />
         </a>
