@@ -8,6 +8,6 @@
   <a href="https://github.com/deepakkandpal004">GitHub</a> ·
   <a href="https://portfolio-website-deepak-kandpal.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/deepakkandpal">LinkedIn</a> ·
-  <a href="https://x.com/rsdeepakg1">X / Twitter</a> ·
+  <a href="https://x.com/rsdeepakg1">Twitter</a> ·
   <a href="mailto:d.kandpal1832@gmail.com">Email</a>
 </p>
