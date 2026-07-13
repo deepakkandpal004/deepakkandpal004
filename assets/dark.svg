@@ -51,9 +51,9 @@
       <text x="233" y="321" font-size="17">    ▓▒    ▄▄▄▄▄    ▒▓</text>
       <text x="233" y="344" font-size="17">     ▓▓   ▀▀▀▀▀   ▓▓</text>
       <text x="233" y="367" font-size="17">      ▓▓▓▓▓▓▓▓▓▓▓</text>
-      <text x="233" y="390" font-size="17">     ╱  ╲  ███  ╱  ╲</text>
-      <text x="233" y="413" font-size="17">    ╱█████████████╲</text>
-      <text x="233" y="436" font-size="17">   ╱___ REAL MADRID ___╲</text>
+      <text x="233" y="390" font-size="17">       ╱╲     ╱╲</text>
+      <text x="233" y="413" font-size="17">     ╱█████████╲</text>
+      <text x="233" y="436" font-size="17">    ╱_____________╲</text>
     </g>
     <rect x="132" y="455" width="202" height="1" fill="url(#accent)" opacity=".75"><animate attributeName="width" values="38;202;38" dur="6s" repeatCount="indefinite"/></rect>
     <text x="233" y="489" text-anchor="middle" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">crafting software with intent</text>
@@ -64,10 +64,8 @@
     <text x="490" y="145" fill="#94a3b8" font-size="16" font-weight="600">Hi, I’m</text>
     <text x="490" y="191" fill="#f8fafc" font-size="39" font-weight="750" letter-spacing="-1.2">Deepak <tspan fill="url(#accent)">Kandpal</tspan></text>
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700">
-      <g clip-path="url(#roleOne)"><text x="490" y="235" fill="#67e8f9">Full Stack Developer</text></g>
-      <g clip-path="url(#roleTwo)"><text x="490" y="235" fill="#a78bfa">React &amp; Next.js Developer</text></g>
-      <g clip-path="url(#roleThree)"><text x="490" y="235" fill="#6ee7b7">Production Web Builder</text></g>
-      <rect x="490" y="215" width="2" height="24" fill="#67e8f9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/><animate attributeName="x" values="490;712;712;490;490;755;755;490;490;735;735;490" keyTimes="0;.08;.28;.32;.333;.58;.64;.666;.68;.85;.94;1" dur="18s" repeatCount="indefinite"/></rect>
+      <text x="490" y="235" fill="#67e8f9">Full Stack Developer</text>
+      <rect x="714" y="215" width="2" height="24" fill="#67e8f9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
     </g>
     <path d="M490 264H1092" stroke="#e2e8f0" stroke-opacity=".09"/>
     <g font-size="14">
@@ -82,11 +80,5 @@
       <text x="525" y="460" text-anchor="middle" fill="#67e8f9">React</text><text x="610" y="460" text-anchor="middle" fill="#67e8f9">Next.js</text><text x="710" y="460" text-anchor="middle" fill="#67e8f9">TypeScript</text><text x="808" y="460" text-anchor="middle" fill="#6ee7b7">Node.js</text><text x="905" y="460" text-anchor="middle" fill="#6ee7b7">PostgreSQL</text><text x="1000" y="460" text-anchor="middle" fill="#6ee7b7">Docker</text>
     </g>
   </g>
-  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="700">
-    <a href="https://github.com/deepakkandpal004" target="_blank"><rect x="490" y="505" width="108" height="34" rx="17" fill="#f8fafc" fill-opacity=".08" stroke="#f8fafc" stroke-opacity=".16"/><text x="544" y="527" text-anchor="middle" fill="#f8fafc">GitHub ↗</text></a>
-    <a href="https://portfolio-website-deepak-kandpal.vercel.app/" target="_blank"><rect x="610" y="505" width="116" height="34" rx="17" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".36"/><text x="668" y="527" text-anchor="middle" fill="#67e8f9">Portfolio ↗</text></a>
-    <a href="https://www.linkedin.com/in/deepakkandpal" target="_blank"><rect x="738" y="505" width="116" height="34" rx="17" fill="#f8fafc" fill-opacity=".05" stroke="#f8fafc" stroke-opacity=".12"/><text x="796" y="527" text-anchor="middle" fill="#cbd5e1">LinkedIn ↗</text></a>
-    <a href="mailto:d.kandpal1832@gmail.com"><rect x="866" y="505" width="104" height="34" rx="17" fill="#f8fafc" fill-opacity=".05" stroke="#f8fafc" stroke-opacity=".12"/><text x="918" y="527" text-anchor="middle" fill="#cbd5e1">Email ↗</text></a>
-    <a href="https://x.com/rsdeepakg1" target="_blank"><text x="1000" y="527" text-anchor="middle" fill="#94a3b8">X / Twitter ↗</text></a>
-  </g>
+  <text x="490" y="527" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">CONNECT BELOW ↓</text>
 </svg>
