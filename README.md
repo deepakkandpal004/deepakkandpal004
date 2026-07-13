@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=20260712-premium">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=20260712-premium">
-  <img alt="Deepak Kandpal — Full Stack Developer" src="./assets/light.svg?v=20260712-premium" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=20260713-profile">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=20260713-profile">
+  <img alt="Deepak Kandpal — Full Stack Developer" src="./assets/light.svg?v=20260713-profile" width="100%">
 </picture>
 
 <p align="center">

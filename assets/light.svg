@@ -109,38 +109,42 @@
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
     <text x="490" y="145" fill="#64748b" font-size="16" font-weight="600">Hi, I&#x2019;m</text>
     <text x="490" y="191" fill="#0f172a" font-size="39" font-weight="750" letter-spacing="-1.2">Deepak <tspan fill="url(#accent)">Kandpal</tspan></text>
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700">
-      <text x="490" y="235" fill="#0891b2">Full Stack Developer</text>
-      <rect x="714" y="215" width="2" height="24" fill="#0891b2"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+    <text x="490" y="216" fill="#64748b" font-size="13" font-weight="600">Clean systems. Thoughtful experiences.</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">
+      <g opacity="1"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.27;.31;1" dur="15s" repeatCount="indefinite"/><text x="490" y="248" fill="#0891b2">Full Stack Developer</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.31;.35;.62;.66;1" dur="15s" repeatCount="indefinite"/><text x="490" y="248" fill="#2563eb">React &amp; Next.js Developer</text></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.66;.70;1" dur="15s" repeatCount="indefinite"/><text x="490" y="248" fill="#059669">Production Web Builder</text></g>
+      <rect x="760" y="228" width="2" height="23" fill="#0891b2"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
     </g>
-    <path d="M490 264H1092" stroke="#0f172a" stroke-opacity=".09"/>
+    <path d="M490 277H1092" stroke="#0f172a" stroke-opacity=".09"/>
     <g font-size="14">
-      <text x="490" y="303" fill="#64748b" font-weight="700">LOCATION</text>
-      <text x="625" y="303" fill="#0f172a" font-weight="600">India</text>
-      <text x="490" y="337" fill="#64748b" font-weight="700">STATUS</text>
-      <text x="625" y="337" fill="#059669" font-weight="700">Open to opportunities</text>
-      <text x="490" y="371" fill="#64748b" font-weight="700">FOCUS</text>
-      <text x="625" y="371" fill="#0f172a" font-weight="600">Scalable, production-ready web applications</text>
+      <text x="490" y="316" fill="#64748b" font-weight="700">LOCATION</text>
+      <text x="625" y="316" fill="#0f172a" font-weight="600">India</text>
+      <text x="490" y="350" fill="#64748b" font-weight="700">STATUS</text>
+      <text x="625" y="350" fill="#059669" font-weight="700">Open to opportunities</text>
+      <text x="490" y="384" fill="#64748b" font-weight="700">FOCUS</text>
+      <text x="625" y="384" fill="#0f172a" font-weight="600">Scalable, production-ready web applications</text>
     </g>
-    <text x="490" y="421" fill="#64748b" font-size="12" font-weight="800" letter-spacing="1.7">CORE STACK</text>
+    <text x="490" y="416" fill="#64748b" font-size="12" font-weight="700" letter-spacing="1.1">1+ YEAR BUILDING  ·  5+ PROJECTS SHIPPED</text>
+    <text x="490" y="447" fill="#64748b" font-size="12" font-weight="800" letter-spacing="1.7">CORE STACK</text>
     <g font-size="13" font-weight="700">
       <g fill="#eff6ff" stroke="#06b6d4" stroke-opacity=".45">
-        <rect x="490" y="440" width="70" height="30" rx="15"/>
-        <rect x="570" y="440" width="80" height="30" rx="15"/>
-        <rect x="660" y="440" width="100" height="30" rx="15"/>
+        <rect x="490" y="466" width="70" height="30" rx="15"/>
+        <rect x="570" y="466" width="80" height="30" rx="15"/>
+        <rect x="660" y="466" width="100" height="30" rx="15"/>
       </g>
       <g fill="#ecfdf5" stroke="#10b981" stroke-opacity=".42">
-        <rect x="770" y="440" width="76" height="30" rx="15"/>
-        <rect x="856" y="440" width="98" height="30" rx="15"/>
-        <rect x="964" y="440" width="72" height="30" rx="15"/>
+        <rect x="770" y="466" width="76" height="30" rx="15"/>
+        <rect x="856" y="466" width="98" height="30" rx="15"/>
+        <rect x="964" y="466" width="72" height="30" rx="15"/>
       </g>
-      <text x="525" y="460" text-anchor="middle" fill="#0891b2">React</text>
-      <text x="610" y="460" text-anchor="middle" fill="#0891b2">Next.js</text>
-      <text x="710" y="460" text-anchor="middle" fill="#0891b2">TypeScript</text>
-      <text x="808" y="460" text-anchor="middle" fill="#059669">Node.js</text>
-      <text x="905" y="460" text-anchor="middle" fill="#059669">PostgreSQL</text>
-      <text x="1000" y="460" text-anchor="middle" fill="#059669">Docker</text>
+      <text x="525" y="486" text-anchor="middle" fill="#0891b2">React</text>
+      <text x="610" y="486" text-anchor="middle" fill="#0891b2">Next.js</text>
+      <text x="710" y="486" text-anchor="middle" fill="#0891b2">TypeScript</text>
+      <text x="808" y="486" text-anchor="middle" fill="#059669">Node.js</text>
+      <text x="905" y="486" text-anchor="middle" fill="#059669">PostgreSQL</text>
+      <text x="1000" y="486" text-anchor="middle" fill="#059669">Docker</text>
     </g>
   </g>
-  <text x="490" y="527" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">CONNECT BELOW &#x2193;</text>
+  <text x="490" y="535" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">CONNECT BELOW &#x2193;</text>
 </svg>
