@@ -1,17 +1,15 @@
-<svg viewBox="0 0 1180 610" width="1180" height="610" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1180 610" width="1180" height="610" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Deepak Kandpal — Full Stack Developer</title>
+  <desc id="banner-desc">Animated developer profile banner with an ASCII portrait based on Deepak's photograph, skills, and professional links.</desc>
   <defs>
-    <!-- Stylesheets for Fonts, Classes, and Keyframes -->
+    <!-- Portable system fonts and motion behavior -->
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
-      
       .font-sans {
-        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
       }
       .font-mono {
-        font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace;
+        font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
       }
-      
-      /* Interactive and Micro-Animations */
       .glass-panel {
         transition: stroke 0.3s ease, fill-opacity 0.3s ease;
       }
@@ -19,25 +17,17 @@
         fill-opacity: 0.75;
         stroke: rgba(255, 255, 255, 0.15);
       }
-      
-      .pill {
+      .pill, .social-icon {
         cursor: pointer;
-        transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), stroke 0.3s ease;
+        transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), stroke 0.3s ease, fill 0.3s ease;
         transform-box: fill-box;
         transform-origin: center;
       }
-      .pill:hover {
-        transform: scale(1.08);
-      }
-      
-      .social-icon {
-        cursor: pointer;
-        transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), fill 0.3s ease;
-        transform-box: fill-box;
-        transform-origin: center;
-      }
-      .social-icon:hover {
-        transform: scale(1.25);
+      .pill:hover { transform: scale(1.06); }
+      .social-icon:hover { transform: scale(1.18); }
+      @media (prefers-reduced-motion: reduce) {
+        *, .pill, .social-icon, .glass-panel { transition: none !important; }
+        animate, animateTransform { display: none; }
       }
     </style>
 
@@ -137,6 +127,12 @@
     <!-- Panels Clipping Paths for Scanlines and sheen overlays -->
     <clipPath id="left-panel-clip">
       <rect x="30" y="30" width="420" height="550" rx="16" />
+    </clipPath>
+    <!-- Full-height base keeps the portrait visible when SMIL is unavailable. -->
+    <clipPath id="portrait-reveal">
+      <rect x="54" y="88" width="372" height="322">
+        <animate attributeName="height" values="0;322" dur="2.2s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
+      </rect>
     </clipPath>
     <clipPath id="right-panel-clip">
       <rect x="480" y="30" width="670" height="550" rx="16" />
@@ -247,36 +243,41 @@
       <line x1="30" y1="75" x2="450" y2="75" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
     </g>
 
-    <!-- Animated Floating ASCII Portrait Group -->
+    <!-- Portrait sampled from the supplied photo: swept hair, natural features, beard, and T-shirt. -->
     <g clip-path="url(#left-panel-clip)">
-      <g fill="url(#ascii-gradient)" class="font-mono">
-        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="5s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
-        
-        <!-- Monospaced portrait, revealed line-by-line -->
-        <text x="88" y="115" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.5s" fill="freeze" />        .-=================-.</text>
-        <text x="88" y="133" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.62s" fill="freeze" />      .'  .-"""""""""""-.  '.</text>
-        <text x="88" y="151" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.74s" fill="freeze" />     /   /  _  _  _  _  \   \</text>
-        <text x="88" y="169" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.86s" fill="freeze" />    ;   |  / \/ \/ \/ \  |   ;</text>
-        <text x="88" y="187" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="0.98s" fill="freeze" />    |   | |  ◉  |  ◉  | |   |</text>
-        <text x="88" y="205" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.10s" fill="freeze" />    |   | |     ▴     | |   |</text>
-        <text x="88" y="223" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.22s" fill="freeze" />    |   | |   .---.   | |   |</text>
-        <text x="88" y="241" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.34s" fill="freeze" />    ;   |  \  '---'  /  |   ;</text>
-        <text x="88" y="259" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.46s" fill="freeze" />     \   \    ___    /   /</text>
-        <text x="88" y="277" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.58s" fill="freeze" />      '.  '._/___\_.'  .'</text>
-        <text x="88" y="295" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.70s" fill="freeze" />        '-.___________.-'</text>
-        <text x="88" y="313" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.82s" fill="freeze" />       /  /|  ||  ||  |\  \</text>
-        <text x="88" y="331" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="1.94s" fill="freeze" />      /__/ |__||__||__| \__\</text>
-        <text x="88" y="349" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="2.06s" fill="freeze" />      |  SYSTEM: ONLINE  |</text>
-        <text x="88" y="367" xml:space="preserve" font-size="13" opacity="0"><animate attributeName="opacity" to="1" dur="0.12s" begin="2.18s" fill="freeze" />      '=================='</text>
+      <g clip-path="url(#portrait-reveal)" fill="url(#ascii-gradient)" class="font-mono" font-size="10.5" font-weight="500" letter-spacing="-0.15">
+        <animateTransform attributeName="transform" type="translate" values="0,1; 0,-2; 0,1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
+        <animate attributeName="opacity" values="0.92;1;0.92" dur="5s" repeatCount="indefinite" />
+        <text x="100" y="103" xml:space="preserve">             .-"""""""""""-.</text>
+        <text x="100" y="116" xml:space="preserve">          .-"@@@@@@@@@@@@@@@"-.</text>
+        <text x="100" y="129" xml:space="preserve">        .'@@@@@@@@@@@@@@@@@@@@@'.</text>
+        <text x="100" y="142" xml:space="preserve">       /@@@@@@@@@@@@@@@@@@@@@@@@@\</text>
+        <text x="100" y="155" xml:space="preserve">      /@@@@@@@@@@@@@%%%%%@@@@@@@@@\</text>
+        <text x="100" y="168" xml:space="preserve">     |@@@@@@@%*+=-:::::-=+*%@@@@@@|</text>
+        <text x="100" y="181" xml:space="preserve">     |@@@@@%-.             .-%@@@@|</text>
+        <text x="100" y="194" xml:space="preserve">     |@@@%/    .---------.    \%@@|</text>
+        <text x="100" y="207" xml:space="preserve">     |@@/     /           \     \@|</text>
+        <text x="100" y="220" xml:space="preserve">    .|@|     |  __     __  |     |@|.</text>
+        <text x="100" y="233" xml:space="preserve">    || |     | (..)   (..) |     | ||</text>
+        <text x="100" y="246" xml:space="preserve">    || |     |      .      |     | ||</text>
+        <text x="100" y="259" xml:space="preserve">    '| |     |     / \     |     | |'</text>
+        <text x="100" y="272" xml:space="preserve">     \ |     |    '---'    |     | /</text>
+        <text x="100" y="285" xml:space="preserve">      \|      \           /      |/</text>
+        <text x="100" y="298" xml:space="preserve">       \       '.______.'       /</text>
+        <text x="100" y="311" xml:space="preserve">        '.     /########\     .'</text>
+        <text x="100" y="324" xml:space="preserve">          '-._/##########\_.-'</text>
+        <text x="100" y="337" xml:space="preserve">             \##########/</text>
+        <text x="100" y="350" xml:space="preserve">              \__||||__/</text>
+        <text x="100" y="363" xml:space="preserve">          ____/   ||   \____</text>
+        <text x="100" y="376" xml:space="preserve">       .-'       _||_       '-.</text>
+        <text x="100" y="389" xml:space="preserve">      /         /____\         \</text>
+        <text x="100" y="402" xml:space="preserve">     /___________________________\</text>
       </g>
 
-      <!-- Cyber Terminal Scanning Cursor for ASCII drawing -->
-      <rect x="396" y="102" width="7" height="15" fill="url(#ascii-gradient)">
-        <animate attributeName="y" values="102; 120; 138; 156; 174; 192; 210; 228; 246; 264; 282; 300; 318; 336; 354; 372" 
-                 keyTimes="0; 0.067; 0.133; 0.2; 0.267; 0.333; 0.4; 0.467; 0.533; 0.6; 0.667; 0.733; 0.8; 0.867; 0.933; 1" 
-                 dur="1.8s" begin="0.5s" fill="freeze" calcMode="discrete" />
-        <animate attributeName="opacity" values="1;0;1" dur="0.6s" repeatCount="indefinite" />
-        <animate attributeName="visibility" to="hidden" begin="2.4s" fill="freeze" />
+      <!-- A single soft scan replaces the old blinking row cursor. -->
+      <rect x="66" y="88" width="348" height="2" rx="1" fill="#22D3EE" opacity="0">
+        <animate attributeName="y" values="88;410" dur="2.2s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" />
+        <animate attributeName="opacity" values="0;0.75;0" keyTimes="0;0.82;1" dur="2.2s" begin="0.25s" fill="freeze" />
       </rect>
     </g>
 

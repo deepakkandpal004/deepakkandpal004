@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=20260713-profile">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=20260713-profile">
-  <img alt="Deepak Kandpal — Full Stack Developer" src="./assets/light.svg?v=20260713-profile" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg?v=20260716-portrait-v2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg?v=20260716-portrait-v2">
+  <img alt="Animated profile banner for Deepak Kandpal, featuring an ASCII portrait based on his photo" src="./assets/light.svg?v=20260716-portrait-v2" width="100%">
 </picture>
 
 <p align="center">
