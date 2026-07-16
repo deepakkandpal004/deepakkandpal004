@@ -27,7 +27,7 @@
       .social-icon:hover { transform: scale(1.18); }
       @media (prefers-reduced-motion: reduce) {
         *, .pill, .social-icon, .glass-panel { transition: none !important; }
-        animate, animateTransform { display: none; }
+        .pill:hover, .social-icon:hover { transform: none; }
       }
     </style>
 
