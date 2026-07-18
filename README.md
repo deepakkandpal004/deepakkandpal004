@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on Full Stack web projects and improving my backend skills.<br><br>🤝 I'm open to collaborating on web development and open-source projects.<br><br>🌱 Right now I'm learning PostgreSQL, Docker, Backend with Postgres and Deployment.<br><br>💬 Ask me about JavaScript, React, Next.js, Node.js, Express.js, and PostgreSQL.<br><br>📫 You can reach me at: d.kandpal@1832@gmail.com<br><br>⚡ Fun fact: I enjoy building projects because that's how I learn new things.
+💻 I'm currently working on Full Stack web projects and improving my backend skills.<br><br>🤝 I'm open to collaborating on web development and open-source projects.<br><br>🌱 Right now I'm learning PostgreSQL, Docker, Backend with Postgres and Deployment.<br><br>💬 Ask me about JavaScript, React, Next.js, Node.js, Express.js, and PostgreSQL.<br><br>📫 You can reach me at: d.kandpal1832@gmail.com<br><br>⚡ Fun fact: I enjoy building projects because that's how I learn new things.
 
 
 ## 🌐 Socials:
