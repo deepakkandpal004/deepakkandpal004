@@ -12,13 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=deepakkandpal004&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepakkandpal004&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=deepakkandpal004&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepakkandpal004&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=deepakkandpal004&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
