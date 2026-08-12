@@ -1,15 +1,20 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#1a1b27" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#1a1b27" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+<svg width="576" height="120" viewBox="0 0 576 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">GitHub profile statistics for Deepak Kandpal</desc>
+  <style>
+    .bg { fill: #1a1b27; stroke: #e4e2e2; stroke-opacity: 0.15; }
+    .title { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #858585; }
+    .value { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="575" height="119" rx="6" />
+  <text class="title" x="24" y="30">GitHub Stats</text>
+  <text class="value" x="24" y="63">17</text>
+  <text class="label" x="24" y="82">Repositories</text>
+  <text class="value" x="160" y="63">18</text>
+  <text class="label" x="160" y="82">Followers</text>
+  <text class="value" x="290" y="63">20</text>
+  <text class="label" x="290" y="82">Following</text>
+  <text class="value" x="420" y="63">0</text>
+  <text class="label" x="420" y="82">Stars</text>
+</svg>
