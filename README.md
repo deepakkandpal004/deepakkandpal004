@@ -130,19 +130,19 @@
 <div align="center">
 
 <a href="https://github.com/deepakkandpal004/Resume-Builder-SaaS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=Resume-Builder-SaaS&theme=tokyonight&show_owner=true" alt="Resume Builder SaaS" />
+  <img src="./profile/resume-builder.svg" alt="Resume Builder SaaS" />
 </a>
 
 <a href="https://github.com/deepakkandpal004/next-expense-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=next-expense-tracker&theme=tokyonight&show_owner=true" alt="Next Expense Tracker" />
+  <img src="./profile/expense-tracker.svg" alt="Next Expense Tracker" />
 </a>
 
 <a href="https://github.com/deepakkandpal004/URL-Shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=URL-Shortener&theme=tokyonight&show_owner=true" alt="URL Shortener" />
+  <img src="./profile/url-shortener.svg" alt="URL Shortener" />
 </a>
 
 <a href="https://github.com/deepakkandpal004/Portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=Portfolio-website&theme=tokyonight&show_owner=true" alt="Portfolio Website" />
+  <img src="./profile/portfolio.svg" alt="Portfolio Website" />
 </a>
 
 </div>
@@ -153,8 +153,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&layout=compact&theme=tokyonight&hide_border=false&count_private=true" width="49%" alt="Top Languages" />
+<img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
 
 <br/><br/>
 
