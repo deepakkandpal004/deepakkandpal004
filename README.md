@@ -125,6 +125,27 @@
 
 ---
 
+
+## 🚧 Currently Building
+
+### 💼 QueueOS
+
+A queue management platform focused on improving the waiting experience
+through real-time updates and a clean digital workflow.
+
+**Focus:** Real-time systems • APIs • Authentication • Database Design
+
+---
+
+### 💰 Expense Tracker AI
+
+A modern expense management application for tracking income and expenses,
+organizing spending, and understanding financial habits.
+
+**Focus:** Next.js • TypeScript • PostgreSQL • Prisma • AI • Analytics
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
