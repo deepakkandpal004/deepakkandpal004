@@ -1,4 +1,4 @@
-&lt;!-- Banner / Header --&gt;
+&lt;!-- Animated Header --&gt;
 &lt;div align="center"&gt;
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Deepak%20Kandpal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /&gt;
 &lt;/div&gt;
@@ -31,7 +31,7 @@
 ## 🌐 Connect With Me
 
 &lt;p align="left"&gt;
-  &lt;a href="https://discord.com/d.eepakkandpal" target="_blank"&gt;
+  &lt;a href="https://discord.com/users/deepakkandpal" target="_blank"&gt;
     &lt;img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /&gt;
   &lt;/a&gt;
   &lt;a href="https://instagram.com/codedbydeepak" target="_blank"&gt;
@@ -46,7 +46,7 @@
   &lt;a href="https://youtube.com/@rsdeepakg07" target="_blank"&gt;
     &lt;img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /&gt;
   &lt;/a&gt;
-  &lt;a href="mailto:deepakkandpal.tech@gmail.com" target="_blank"&gt;
+  &lt;a href="mailto:deepakkandpal.tech@gmail.com"&gt;
     &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
   &lt;/a&gt;
 &lt;/p&gt;
@@ -120,16 +120,60 @@
 
 ---
 
+## 🚀 Featured Projects
+
+&lt;div align="center"&gt;
+
+&lt;!-- Project 1 --&gt;
+&lt;a href="https://github.com/deepakkandpal004/project-name-1"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-1&theme=tokyonight&hide_border=false" width="49%" /&gt;
+&lt;/a&gt;
+
+&lt;!-- Project 2 --&gt;
+&lt;a href="https://github.com/deepakkandpal004/project-name-2"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-2&theme=tokyonight&hide_border=false" width="49%" /&gt;
+&lt;/a&gt;
+
+&lt;!-- Project 3 --&gt;
+&lt;a href="https://github.com/deepakkandpal004/project-name-3"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-3&theme=tokyonight&hide_border=false" width="49%" /&gt;
+&lt;/a&gt;
+
+&lt;!-- Project 4 --&gt;
+&lt;a href="https://github.com/deepakkandpal004/project-name-4"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-4&theme=tokyonight&hide_border=false" width="49%" /&gt;
+&lt;/a&gt;
+
+&lt;/div&gt;
+
+&gt; 💡 **Note:** Replace `project-name-1`, `project-name-2`, etc. with your actual repository names. These cards will automatically pull your repo stats, description, stars, and forks!
+
+---
+
 ## 📊 GitHub Stats
 
 &lt;div align="center"&gt;
   
-  &lt;img src="https://github-readme-stats.shion.dev/api?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" alt="GitHub Stats" /&gt;
-  &lt;img src="https://github-readme-stats.shion.dev/api/top-langs/?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" alt="GitHub Stats" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" /&gt;
   
   &lt;br/&gt;&lt;br/&gt;
   
   &lt;img src="https://streak-stats.demolab.com/?user=deepakkandpal004&theme=tokyonight&hide_border=false" width="70%" alt="GitHub Streak" /&gt;
+  
+&lt;/div&gt;
+
+---
+
+## 🐍 Contribution Graph
+
+&lt;div align="center"&gt;
+  
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake-dark.svg" /&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake.svg" /&gt;
+    &lt;img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake.svg" /&gt;
+  &lt;/picture&gt;
   
 &lt;/div&gt;
 
