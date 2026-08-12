@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there, I'm Deepak 👋</h1>
 
-<p align="center"><strong>Full Stack Web Developer • Backend Enthusiast • Problem Solver</strong></p>
+<p align="center"><strong>Full Stack Web Developer • Backend Developer • PERN Stack</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+%26+API+Development;Building+Production-Ready+Applications;Always+Learning+Something+New" alt="Typing SVG" />
@@ -19,14 +19,14 @@
 
 ## 💫 About Me
 
-- 💻 Building **full-stack web applications** and strengthening my backend engineering skills
-- 🚀 Interested in **scalable APIs, databases, authentication, and system design**
-- 🌱 Currently focused on **PostgreSQL, Prisma, Redis, Docker, backend architecture, and deployment**
-- ⚡ I learn best by **building real-world projects and solving problems**
-- 🤝 Open to collaborating on **web development and open-source projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, PostgreSQL, Prisma, and REST APIs**
-- 📫 Email: **deepakkandpal.tech@gmail.com**
-- 🌐 Portfolio: **https://deepakkandpal.me**
+I'm a Full Stack Developer focused on building clean, scalable, and production-ready web applications.
+
+- 💻 Full Stack Web Development
+- ⚙️ Backend & REST API Development
+- 🗄️ PostgreSQL, Prisma, MongoDB & Redis
+- 🔐 Authentication & Authorization
+- 🚀 Docker, Cloud & Deployment
+- 🌱 Currently learning System Design & scalable backend architecture
 
 ---
 
