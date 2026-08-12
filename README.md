@@ -118,13 +118,13 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-1&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-1&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/Resume-Builder-SaaS)
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-2&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-2)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-2&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/next-expense-tracker)
 
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-3&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-3)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-3&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/URL-Shortener)
 
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-4&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-4)
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-4&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/Portfolio-website)
 
 </div>
 
