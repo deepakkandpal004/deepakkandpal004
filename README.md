@@ -1,19 +1,19 @@
-&lt;!-- Animated Header --&gt;
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Deepak%20Kandpal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /&gt;
-&lt;/div&gt;
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Deepak%20Kandpal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-&lt;h1 align="center"&gt;Hi there, I'm Deepak 👋&lt;/h1&gt;
+<h1 align="center">Hi there, I'm Deepak 👋</h1>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=deepakkandpal004&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" /&gt;
-&lt;/p&gt;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepakkandpal004&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -30,38 +30,27 @@
 
 ## 🌐 Connect With Me
 
-&lt;p align="left"&gt;
-  &lt;a href="https://discord.com/users/deepakkandpal" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://instagram.com/codedbydeepak" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/deepakkandpal" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://x.com/codedbydeepak" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://youtube.com/@rsdeepakg07" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:deepakkandpal.tech@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakkandpal004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakkandpal)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deepakkandpal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codedbydeepak)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codedbydeepak)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rsdeepakg07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkandpal.tech@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🚀 Languages
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -73,6 +62,7 @@
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### ⚙️ Backend
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
@@ -81,6 +71,7 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### 🗄️ Databases & ORM
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -90,6 +81,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -100,6 +92,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🛠️ Tools & Utilities
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -113,6 +106,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🎨 Design
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
@@ -122,63 +116,52 @@
 
 ## 🚀 Featured Projects
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;!-- Project 1 --&gt;
-&lt;a href="https://github.com/deepakkandpal004/project-name-1"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-1&theme=tokyonight&hide_border=false" width="49%" /&gt;
-&lt;/a&gt;
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-1&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-1)
 
-&lt;!-- Project 2 --&gt;
-&lt;a href="https://github.com/deepakkandpal004/project-name-2"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-2&theme=tokyonight&hide_border=false" width="49%" /&gt;
-&lt;/a&gt;
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-2&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-2)
 
-&lt;!-- Project 3 --&gt;
-&lt;a href="https://github.com/deepakkandpal004/project-name-3"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-3&theme=tokyonight&hide_border=false" width="49%" /&gt;
-&lt;/a&gt;
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-3&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-3)
 
-&lt;!-- Project 4 --&gt;
-&lt;a href="https://github.com/deepakkandpal004/project-name-4"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-4&theme=tokyonight&hide_border=false" width="49%" /&gt;
-&lt;/a&gt;
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=deepakkandpal004&repo=project-name-4&theme=tokyonight&hide_border=false)](https://github.com/deepakkandpal004/project-name-4)
 
-&lt;/div&gt;
+</div>
 
-&gt; 💡 **Note:** Replace `project-name-1`, `project-name-2`, etc. with your actual repository names. These cards will automatically pull your repo stats, description, stars, and forks!
+> 💡 **Note:** Replace `project-name-1`, `project-name-2`, etc. with your actual repository names. These cards will automatically pull your repo stats, description, stars, and forks!
 
 ---
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-  
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" alt="GitHub Stats" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" /&gt;
-  
-  &lt;br/&gt;&lt;br/&gt;
-  
-  &lt;img src="https://streak-stats.demolab.com/?user=deepakkandpal004&theme=tokyonight&hide_border=false" width="70%" alt="GitHub Streak" /&gt;
-  
-&lt;/div&gt;
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkandpal004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=deepakkandpal004&theme=tokyonight&hide_border=false" width="70%" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## 🐍 Contribution Graph
 
-&lt;div align="center"&gt;
-  
-  &lt;picture&gt;
-    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake-dark.svg" /&gt;
-    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake.svg" /&gt;
-    &lt;img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake.svg" /&gt;
-  &lt;/picture&gt;
-  
-&lt;/div&gt;
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=120&section=footer" width="100%" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=120&section=footer" width="100%" />
+</div>
