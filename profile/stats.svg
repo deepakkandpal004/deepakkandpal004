@@ -1,20 +1,25 @@
 <svg width="576" height="120" viewBox="0 0 576 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">GitHub Stats</title>
-  <desc id="desc">GitHub profile statistics for Deepak Kandpal</desc>
+  <desc id="desc">GitHub profile statistics for deepakkandpal004</desc>
   <style>
     .bg { fill: #1a1b27; stroke: #e4e2e2; stroke-opacity: 0.15; }
     .title { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
     .label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #858585; }
     .value { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
   </style>
+
   <rect class="bg" x="0.5" y="0.5" width="575" height="119" rx="6" />
   <text class="title" x="24" y="30">GitHub Stats</text>
+
   <text class="value" x="24" y="63">17</text>
   <text class="label" x="24" y="82">Repositories</text>
+
   <text class="value" x="160" y="63">18</text>
   <text class="label" x="160" y="82">Followers</text>
+
   <text class="value" x="290" y="63">20</text>
   <text class="label" x="290" y="82">Following</text>
+
   <text class="value" x="420" y="63">0</text>
   <text class="label" x="420" y="82">Stars</text>
 </svg>
