@@ -130,19 +130,35 @@
 <div align="center">
 
 <a href="https://github.com/deepakkandpal004/Resume-Builder-SaaS">
-  <img src="./profile/resume-builder.svg" alt="Resume Builder SaaS" />
+  <img
+    src="https://opengraph.githubassets.com/1/deepakkandpal004/Resume-Builder-SaaS"
+    width="46%"
+    alt="Resume Builder SaaS"
+  />
 </a>
 
 <a href="https://github.com/deepakkandpal004/next-expense-tracker">
-  <img src="./profile/expense-tracker.svg" alt="Next Expense Tracker" />
+  <img
+    src="https://opengraph.githubassets.com/1/deepakkandpal004/next-expense-tracker"
+    width="46%"
+    alt="Expense Tracker AI"
+  />
 </a>
 
 <a href="https://github.com/deepakkandpal004/URL-Shortener">
-  <img src="./profile/url-shortener.svg" alt="URL Shortener" />
+  <img
+    src="https://opengraph.githubassets.com/1/deepakkandpal004/URL-Shortener"
+    width="46%"
+    alt="URL Shortener"
+  />
 </a>
 
 <a href="https://github.com/deepakkandpal004/Portfolio-website">
-  <img src="./profile/portfolio.svg" alt="Portfolio Website" />
+  <img
+    src="https://opengraph.githubassets.com/1/deepakkandpal004/Portfolio-website"
+    width="46%"
+    alt="Portfolio Website"
+  />
 </a>
 
 </div>
@@ -153,12 +169,25 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
-<img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
+<img
+  src="./profile/stats.svg"
+  width="49%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="./profile/top-langs.svg"
+  width="49%"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=deepakkandpal004&theme=tokyonight&hide_border=false" width="70%" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=deepakkandpal004&theme=tokyonight&hide_border=false"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </div>
 
