@@ -19,12 +19,56 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub stats
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+
+          profile=$(curl -fsSL \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            "https://api.github.com/users/${USERNAME}")
+
+          repos=$(curl -fsSL \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            "https://api.github.com/users/${USERNAME}/repos?per_page=100")
+
+          public_repos=$(echo "$profile" | jq -r '.public_repos')
+          followers=$(echo "$profile" | jq -r '.followers')
+          following=$(echo "$profile" | jq -r '.following')
+          stars=$(echo "$repos" | jq '[.[] | .stargazers_count] | add // 0')
+
+          mkdir -p profile
+
+          cat > profile/stats.svg <<EOF
+          <svg width="576" height="120" viewBox="0 0 576 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+            <title id="title">GitHub Stats</title>
+            <desc id="desc">GitHub profile statistics for ${USERNAME}</desc>
+            <style>
+              .bg { fill: #1a1b27; stroke: #e4e2e2; stroke-opacity: 0.15; }
+              .title { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+              .label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #858585; }
+              .value { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+            </style>
+
+            <rect class="bg" x="0.5" y="0.5" width="575" height="119" rx="6" />
+            <text class="title" x="24" y="30">GitHub Stats</text>
+
+            <text class="value" x="24" y="63">${public_repos}</text>
+            <text class="label" x="24" y="82">Repositories</text>
+
+            <text class="value" x="160" y="63">${followers}</text>
+            <text class="label" x="160" y="82">Followers</text>
+
+            <text class="value" x="290" y="63">${following}</text>
+            <text class="label" x="290" y="82">Following</text>
+
+            <text class="value" x="420" y="63">${stars}</text>
+            <text class="label" x="420" y="82">Stars</text>
+          </svg>
+          EOF
 
       - name: Generate top languages
         uses: readme-tools/github-readme-stats-action@v1
@@ -33,6 +77,10 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Normalize language names
+        run: |
+          sed -i 's/PLpgSQL/PL\/pgSQL/g' profile/top-langs.svg
 
       - name: Generate Resume Builder card
         uses: readme-tools/github-readme-stats-action@v1
