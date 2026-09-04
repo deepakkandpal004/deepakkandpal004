@@ -11,7 +11,7 @@
   <rect class="bg" x="0.5" y="0.5" width="575" height="119" rx="6" />
   <text class="title" x="24" y="30">GitHub Stats</text>
 
-  <text class="value" x="24" y="63">17</text>
+  <text class="value" x="24" y="63">18</text>
   <text class="label" x="24" y="82">Repositories</text>
 
   <text class="value" x="160" y="63">55</text>
