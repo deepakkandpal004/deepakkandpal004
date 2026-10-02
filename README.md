@@ -18,7 +18,6 @@
 **SDE Intern — sevaSYNC Digital Solutions** (Jun 2026 – Aug 2026)
 - Built and shipped full-stack features for client projects in a consulting setup
 - Worked across React frontends and Node.js/Express backends with real production data
-- Certificate: `SVS-INT-2026-0015`
 
 ### Stack
 
