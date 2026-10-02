@@ -1,6 +1,6 @@
 # Deepak Kandpal
 
-**Full-Stack Developer (MERN / PERN)** — I build production-ready web apps with clean, scalable backends.
+**Full-Stack Developer (MERN)** — I build production-ready web apps with clean, scalable backends.
 
 [Portfolio](https://deepakkandpal.me) · [LinkedIn](https://linkedin.com/in/deepakkandpal) · [Email](mailto:deepakkandpal.tech@gmail.com) · [Resume](https://deepakkandpal.me/resume.pdf)
 
