@@ -1,8 +1,8 @@
-# Hi, I'm Deepak Kandpal 👋
+# Deepak Kandpal
 
-### Full-Stack Developer · MERN · TypeScript
+### Full-Stack Developer building reliable products and scalable backend systems
 
-I build production-ready web applications with thoughtful user experiences, clean APIs, and scalable backend systems.
+I’m a full-stack developer focused on building practical, production-ready web applications. I enjoy turning ideas into clean products, designing maintainable APIs, and working on backend systems that remain reliable as they grow.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deepakkandpal.me-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://deepakkandpal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakkandpal)
@@ -11,13 +11,13 @@ I build production-ready web applications with thoughtful user experiences, clea
 
 ---
 
-## About me
+## What I do
 
-- Ex-SDE Intern at **sevaSYNC Digital Solutions** — shipped full-stack features for client projects
-- Currently building **ResumeAI**, an AI-powered resume matcher with ATS scoring, JD tailoring, cover letters, and application tracking
-- Built products including **Expense Tracker AI**, **Async Job Processing**, and a **URL Shortener**
-- Open to full-time opportunities across **Remote, Pune, Noida, Mumbai, Hyderabad, Gurgaon, Delhi NCR, and Bangalore**
-- Available as an **immediate joiner**
+- Build full-stack applications with **React, Next.js, Node.js, and TypeScript**
+- Design REST APIs and backend services with a focus on clarity, performance, and maintainability
+- Work with relational and NoSQL databases, caching, and asynchronous job processing
+- Turn product requirements into simple, useful, and reliable user experiences
+- Learn continuously through hands-on projects and real-world engineering problems
 
 ## Experience
 
@@ -25,43 +25,69 @@ I build production-ready web applications with thoughtful user experiences, clea
 *June 2026 – August 2026*
 
 - Built and shipped full-stack features for client projects in a consulting environment
-- Developed React frontends and Node.js/Express backends using real production data
-- Collaborated on reliable, maintainable solutions from implementation through delivery
+- Worked across React frontends and Node.js/Express backends with production data
+- Contributed to implementation, debugging, and delivery of maintainable software
 
 ## Tech stack
 
-**Languages & frontend**  
+**Frontend**  
 `TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
-**Backend & databases**  
-`Node.js` `Express` `PostgreSQL` `Prisma` `MongoDB` `Redis`
+**Backend**  
+`Node.js` `Express` `REST APIs` `Redis` `Background Jobs`
 
-**Tools & practices**  
-`Docker` `Git` `REST APIs` `System Design` `Background Jobs`
+**Databases**  
+`PostgreSQL` `Prisma` `MongoDB`
 
-## Featured projects
+**Tools**  
+`Docker` `Git` `GitHub`
 
-| Project | What it does | Links |
-|---|---|---|
-| **ResumeAI** | AI resume builder with job matching, ATS scoring, tailored bullets, cover letters, and application tracking | [Live](https://resume.deepakkandpal.me) |
-| **Expense Tracker AI** | Track income and expenses, organize spending, and understand financial habits with analytics | [Live](https://expense.deepakkandpal.me) · [Repo](https://github.com/deepakkandpal004/expense-tracker-ai) |
-| **Async Job Processing** | Background job processing with Redis worker queues, retries, and PostgreSQL persistence | [Repo](https://github.com/deepakkandpal004/Async-job-processing) |
-| **URL Shortener** | Fast, minimal URL shortener with a clean interface | [Live](https://url-shortener-lyart-two.vercel.app) · [Repo](https://github.com/deepakkandpal004/URL-Shortener) |
+## Selected projects
 
-## Currently learning
+### ResumeAI
 
-System design and scalable backend architecture — queues, caching, observability, and database design beyond the basics.
+An AI-powered resume platform that helps job seekers understand how well their resume matches a job description and improve it with targeted suggestions.
+
+Features include ATS-oriented scoring, job-description matching, tailored resume content, cover-letter generation, and application tracking.
+
+[Visit ResumeAI](https://resume.deepakkandpal.me)
+
+### Expense Tracker AI
+
+A personal finance application for tracking income and expenses, organizing spending, and understanding financial habits through analytics.
+
+[Visit Expense Tracker AI](https://expense.deepakkandpal.me)
+
+### Async Job Processing
+
+A backend project demonstrating asynchronous processing with Redis worker queues, retries, and PostgreSQL persistence.
+
+[View repository](https://github.com/deepakkandpal004/Async-job-processing)
+
+### URL Shortener
+
+A fast and minimal URL-shortening application with a clean interface and a straightforward backend.
+
+[Live demo](https://url-shortener-lyart-two.vercel.app) · [View repository](https://github.com/deepakkandpal004/URL-Shortener)
+
+## Current focus
+
+I’m currently deepening my understanding of **system design and scalable backend architecture**, especially queues, caching, observability, API design, and database trade-offs.
+
+## Open to opportunities
+
+I’m open to full-time software engineering opportunities, especially roles involving **full-stack development, backend engineering, and product-focused engineering**.
+
+Open to remote roles and opportunities in Pune, Noida, Mumbai, Hyderabad, Gurgaon, Delhi NCR, and Bangalore. Available to join immediately.
 
 ## Writing
 
-I write about the things I build and learn on my [blog](https://deepakkandpal.me/blog).
+I share things I build and learn on my [blog](https://deepakkandpal.me/blog).
 
-## GitHub stats
+## GitHub activity
 
 <img src="./profile/stats.svg" width="49%" alt="GitHub stats" />
 <img src="./profile/top-langs.svg" width="49%" alt="Top languages" />
-
-## Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakkandpal004/deepakkandpal004/output/github-contribution-grid-snake-dark.svg" />
