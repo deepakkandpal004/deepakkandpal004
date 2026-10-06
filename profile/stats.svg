@@ -11,13 +11,13 @@
   <rect class="bg" x="0.5" y="0.5" width="575" height="119" rx="6" />
   <text class="title" x="24" y="30">GitHub Stats</text>
 
-  <text class="value" x="24" y="63">22</text>
+  <text class="value" x="24" y="63">23</text>
   <text class="label" x="24" y="82">Repositories</text>
 
-  <text class="value" x="160" y="63">64</text>
+  <text class="value" x="160" y="63">63</text>
   <text class="label" x="160" y="82">Followers</text>
 
-  <text class="value" x="290" y="63">68</text>
+  <text class="value" x="290" y="63">67</text>
   <text class="label" x="290" y="82">Following</text>
 
   <text class="value" x="420" y="63">1</text>
